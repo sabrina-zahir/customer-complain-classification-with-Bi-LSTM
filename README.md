@@ -6,7 +6,7 @@
 The dataframe consists of 162421 complaints for 5 products. The dataframe is considerably imbalanced.
 
 The notebook implements Bi-LSTM model for multiclass classification of product complaints. Based on the provided complaints, the goal of the notebook is to accurately identify the product.
-
+**dataset:** https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp
 
 **Acknowledgements**
 
